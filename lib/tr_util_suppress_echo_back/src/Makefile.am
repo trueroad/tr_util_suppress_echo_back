@@ -1,0 +1,3 @@
+noinst_LIBRARIES = libtr_util_suppress_echo_back.a
+libtr_util_suppress_echo_back_a_SOURCES = \
+	tr_util_suppress_echo_back.hh tr_util_suppress_echo_back.cc
